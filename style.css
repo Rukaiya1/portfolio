@@ -407,7 +407,8 @@ article .icon {
 /* CONTACT */
 
 #contact {
-  margin-top: 2300px;
+  /*margin-top: 2300px;*/
+  margin-top: 1400px;
   display: flex;
   justify-content: center;
   flex-direction: column;
